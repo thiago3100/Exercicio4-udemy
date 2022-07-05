@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exercicio4-udemy\bin\Debug\net6.0\Exercicio4-udemy.exe
+C:\ProjetosC#\Exercicio4-udemy\bin\Debug\net6.0\Exercicio4-udemy.deps.json
+C:\ProjetosC#\Exercicio4-udemy\bin\Debug\net6.0\Exercicio4-udemy.runtimeconfig.json
+C:\ProjetosC#\Exercicio4-udemy\bin\Debug\net6.0\Exercicio4-udemy.dll
+C:\ProjetosC#\Exercicio4-udemy\bin\Debug\net6.0\Exercicio4-udemy.pdb
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.AssemblyInfo.cs
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.dll
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\refint\Exercicio4-udemy.dll
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.pdb
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\Exercicio4-udemy.genruntimeconfig.cache
+C:\ProjetosC#\Exercicio4-udemy\obj\Debug\net6.0\ref\Exercicio4-udemy.dll
